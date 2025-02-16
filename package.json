@@ -1,0 +1,12 @@
+{
+  "name": "linkedin-post-collector-icons",
+  "version": "1.0.0",
+  "description": "Icon generator for LinkedIn Post Collector extension",
+  "private": true,
+  "scripts": {
+    "generate-icons": "node generate_icons.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+} 
